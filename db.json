@@ -1,17 +1,19 @@
-[{
-    "id":1,
-    "name":"test1",
-    "price":500
-},{
-    "id":2,
-    "name":"test2",
-    "price":500
-},{
-    "id":3,
-    "name":"test3",
-    "price":500
-},{
-    "id":4,
-    "name":"test4",
-    "price":500
-}]
+{
+    "users":[{
+        "id":1,
+        "name":"test1",
+        "price":500
+    },{
+        "id":2,
+        "name":"test2",
+        "price":500
+    },{
+        "id":3,
+        "name":"test3",
+        "price":500
+    },{
+        "id":4,
+        "name":"test4",
+        "price":500
+    }]    
+}
